@@ -25,4 +25,10 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
 
 ## 📊 GitHub Stats:
-![rocionemeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocionemeth&show_icons=true)
+![rocionemeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocionemeth&show_icons=true&count_private=true&theme=dark)
+
+## 💻 Most Used Languages:
+![rocionemeth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rocionemeth&layout=compact&theme=dark)
+
+## 👁‍🗨 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=rocionemeth&color=blue)
