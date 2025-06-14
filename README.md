@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![rocionemeth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocionemeth&show_icons=true&count_private=true&theme=dark)
@@ -33,5 +34,3 @@ Here are some ideas to get you started:
 ## 💻 Most Used Languages:
 ![rocionemeth's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rocionemeth&layout=compact&theme=dark)
 -->
-## 👁‍🗨 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=rocionemeth&color=blue)
