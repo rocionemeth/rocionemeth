@@ -69,7 +69,7 @@
     </td>
     <td width="50%" align="center" valign="top">
       Academic project — UNLaM.<br>
-      <b>HTML5 · CSS · Angular</b><br>
+      <b>HTML5 · CSS · TypeScript</b><br>
       <a href="https://github.com/DeleteSinWhere-UNLAM/recred-frontend">Code</a>
     </td>
   </tr>
