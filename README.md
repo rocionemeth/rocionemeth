@@ -60,11 +60,11 @@
     <td width="50%">
       <h3 align="center">Recred — Frontend</h3>
       <a href="https://github.com/DeleteSinWhere-UNLAM/recred-frontend">
-        <img src="RUTA_DE_TU_SCREENSHOT" width="100%">
+        <img src="https://github.com/user-attachments/assets/7a3c4a5b-68b4-4ef7-abf7-5f2b94813453" width="100%">
       </a>
       <p align="center">
         Academic project — UNLaM.<br>
-        <b>TypeScript</b><br>
+        <b>HTML5 · CSS · Angular </b><br>
         <a href="https://github.com/DeleteSinWhere-UNLAM/recred-frontend">Code</a>
       </p>
     </td>
@@ -81,5 +81,4 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocionemeth&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rocionemeth&theme=tokyonight)
