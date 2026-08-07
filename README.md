@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Rocío Nemeth
 
-💻 Systems student passionate about technology, software quality, and data.
+🎓 University Technician in Web Development
+💻 Passionate about technology, software quality, and data.
 
 🌱 Currently learning:
 - Python
@@ -24,6 +25,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
@@ -39,6 +41,38 @@
 
 ---
 
+## 📌 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Patitas Felices — Landing Page</h3>
+      <a href="https://rocionemeth.github.io/PetShop-Landing/">
+        <img src="https://raw.githubusercontent.com/rocionemeth/PetShop-Landing/main/img/preview.png" width="100%">
+      </a>
+      <p align="center">
+        Responsive one-page landing for a pet shop.<br>
+        <b>HTML5 · Tailwind CSS · JavaScript</b><br>
+        <a href="https://rocionemeth.github.io/PetShop-Landing/">Demo</a> ·
+        <a href="https://github.com/rocionemeth/PetShop-Landing">Code</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Recred — Frontend</h3>
+      <a href="https://github.com/DeleteSinWhere-UNLAM/recred-frontend">
+        <img src="RUTA_DE_TU_SCREENSHOT" width="100%">
+      </a>
+      <p align="center">
+        Academic project — UNLaM.<br>
+        <b>TypeScript</b><br>
+        <a href="https://github.com/DeleteSinWhere-UNLAM/recred-frontend">Code</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/rocio-nemeth)
@@ -48,5 +82,4 @@
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rocionemeth&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rocionemeth&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=rocionemeth&theme=tokyonight)
