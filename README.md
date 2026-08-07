@@ -45,11 +45,13 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Patitas Felices — Landing Page</h3>
-      <a href="https://rocionemeth.github.io/PetShop-Landing/">
-        <img src="https://raw.githubusercontent.com/rocionemeth/PetShop-Landing/main/img/preview.png" width="100%">
-      </a>
+      <p align="center">
+        <a href="https://rocionemeth.github.io/PetShop-Landing/">
+          <img src="https://raw.githubusercontent.com/rocionemeth/PetShop-Landing/main/img/preview.png" height="200">
+        </a>
+      </p>
       <p align="center">
         Responsive one-page landing for a pet shop.<br>
         <b>HTML5 · Tailwind CSS · JavaScript</b><br>
@@ -57,14 +59,16 @@
         <a href="https://github.com/rocionemeth/PetShop-Landing">Code</a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3 align="center">Recred — Frontend</h3>
-      <a href="https://github.com/DeleteSinWhere-UNLAM/recred-frontend">
-        <img src="https://github.com/user-attachments/assets/7a3c4a5b-68b4-4ef7-abf7-5f2b94813453" width="100%">
-      </a>
+      <p align="center">
+        <a href="https://github.com/DeleteSinWhere-UNLAM/recred-frontend">
+          <img src="https://github.com/user-attachments/assets/7a3c4a5b-68b4-4ef7-abf7-5f2b94813453" height="200">
+        </a>
+      </p>
       <p align="center">
         Academic project — UNLaM.<br>
-        <b>HTML5 · CSS · Angular </b><br>
+        <b>HTML5 · CSS · Angular</b><br>
         <a href="https://github.com/DeleteSinWhere-UNLAM/recred-frontend">Code</a>
       </p>
     </td>
