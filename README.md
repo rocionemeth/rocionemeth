@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Rocío Nemeth
 
 🎓 University Technician in Web Development
+
 💻 Passionate about technology, software quality, and data.
 
 🌱 Currently learning:
@@ -72,6 +73,27 @@
       <b>HTML5 · CSS · TypeScript</b><br>
       <a href="https://github.com/DeleteSinWhere-UNLAM/recred-frontend">Code</a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><h3>TamaGo — Landing Page</h3></td>
+    <td width="50%" align="center"></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="bottom">
+      <a href="https://rocionemeth.github.io/TamaGo-Landing/">
+        <img src="https://raw.githubusercontent.com/rocionemeth/TamaGo-Landing/main/img/preview.png" height="180">
+      </a>
+    </td>
+    <td width="50%" align="center" valign="bottom"></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      Virtual pet game landing — Tamagotchi style.<br>
+      <b>HTML5 · CSS · JavaScript</b><br>
+      <a href="https://rocionemeth.github.io/TamaGo-Landing/">Demo</a> ·
+      <a href="https://github.com/rocionemeth/TamaGo-Landing">Code</a>
+    </td>
+    <td width="50%" align="center" valign="top"></td>
   </tr>
 </table>
 
