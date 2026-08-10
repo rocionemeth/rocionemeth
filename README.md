@@ -46,37 +46,8 @@
 
 <table>
   <tr>
-    <td width="50%" align="center"><h3>Patitas Felices — Landing Page</h3></td>
-    <td width="50%" align="center"><h3>Recred — Frontend</h3></td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="bottom">
-      <a href="https://rocionemeth.github.io/PetShop-Landing/">
-        <img src="https://raw.githubusercontent.com/rocionemeth/PetShop-Landing/main/img/preview.png" height="180">
-      </a>
-    </td>
-    <td width="50%" align="center" valign="bottom">
-      <a href="https://github.com/DeleteSinWhere-UNLAM/recred-frontend">
-        <img src="https://github.com/user-attachments/assets/7a3c4a5b-68b4-4ef7-abf7-5f2b94813453" height="180">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      Responsive one-page landing for a pet shop.<br>
-      <b>HTML5 · Tailwind CSS · JavaScript</b><br>
-      <a href="https://rocionemeth.github.io/PetShop-Landing/">Demo</a> ·
-      <a href="https://github.com/rocionemeth/PetShop-Landing">Code</a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      Academic project — UNLaM.<br>
-      <b>HTML5 · CSS · TypeScript</b><br>
-      <a href="https://github.com/DeleteSinWhere-UNLAM/recred-frontend">Code</a>
-    </td>
-  </tr>
-  <tr>
     <td width="50%" align="center"><h3>TamaGo — Landing Page</h3></td>
-    <td width="50%" align="center"></td>
+    <td width="50%" align="center"><h3>Patitas Felices — Landing Page</h3></td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="bottom">
@@ -84,7 +55,11 @@
         <img src="https://raw.githubusercontent.com/rocionemeth/TamaGo-Landing/main/img/preview.png" height="180">
       </a>
     </td>
-    <td width="50%" align="center" valign="bottom"></td>
+    <td width="50%" align="center" valign="bottom">
+      <a href="https://rocionemeth.github.io/PetShop-Landing/">
+        <img src="https://raw.githubusercontent.com/rocionemeth/PetShop-Landing/main/img/preview.png" height="180">
+      </a>
+    </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="top">
@@ -92,6 +67,31 @@
       <b>HTML5 · CSS · JavaScript</b><br>
       <a href="https://rocionemeth.github.io/TamaGo-Landing/">Demo</a> ·
       <a href="https://github.com/rocionemeth/TamaGo-Landing">Code</a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      Responsive one-page landing for a pet shop.<br>
+      <b>HTML5 · Tailwind CSS · JavaScript</b><br>
+      <a href="https://rocionemeth.github.io/PetShop-Landing/">Demo</a> ·
+      <a href="https://github.com/rocionemeth/PetShop-Landing">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><h3>Recred — Frontend</h3></td>
+    <td width="50%" align="center"></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="bottom">
+      <a href="https://github.com/DeleteSinWhere-UNLAM/recred-frontend">
+        <img src="https://github.com/user-attachments/assets/7a3c4a5b-68b4-4ef7-abf7-5f2b94813453" height="180">
+      </a>
+    </td>
+    <td width="50%" align="center" valign="bottom"></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      Academic project — UNLaM.<br>
+      <b>HTML5 · CSS · TypeScript</b><br>
+      <a href="https://github.com/DeleteSinWhere-UNLAM/recred-frontend">Code</a>
     </td>
     <td width="50%" align="center" valign="top"></td>
   </tr>
